@@ -1,0 +1,55 @@
+  833 avahi     20   0   45304   4004   3220 S   0.7  0.1   0:15.69 avahi-daemon  
+    1 root      20   0  185436   6000   3916 S   0.0  0.2   0:02.28 systemd 
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.00 kthreadd 
+    6 root      20   0       0      0      0 S   0.0  0.0   0:00.09 ksoftirqd/0 
+   16 root      20   0       0      0      0 S   0.0  0.0   0:00.08 ksoftirqd/1 
+   22 root      20   0       0      0      0 S   0.0  0.0   0:00.14 ksoftirqd/2 	
+   28 root      20   0       0      0      0 S   0.0  0.0   0:00.21 ksoftirqd/3 
+   34 root      20   0       0      0      0 S   0.0  0.0   0:00.00 khungtaskd 
+   39 root      39  19       0      0      0 S   0.0  0.0   0:00.63 khugepaged 
+   41 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kintegrityd
+   43 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kblockd 
+   50 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 watchdogd  
+   53 root      20   0       0      0      0 S   0.0  0.0   0:00.00 kauditd
+   97 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kthrotld
+  278 root      20   0   45620   4564   3036 S   0.0  0.1   0:00.36 systemd-udevd 
+  776 root      20   0   32068   4616   4196 S   0.0  0.1   0:00.01 bluetoothd                                                                 
+  778 message+  20   0   44180   5020   3460 S   0.0  0.1   0:02.56 dbus-daemon                                                                
+  809 syslog    20   0  256396   3344   2684 S   0.0  0.1   0:00.83 rsyslogd                                                                   
+  816 root      20   0   28644   3200   2796 S   0.0  0.1   0:00.12 systemd-logind                                                             
+  819 root      20   0  166412   8852   8144 S   0.0  0.2   0:01.11 thermald  
+  831 root      20   0    4400   1276   1180 S   0.0  0.0   0:00.72 acpid                                                                      
+  833 avahi     20   0   45304   4004   3220 S   0.0  0.1   0:16.29 avahi-daemon                                                               
+  836 root      20   0  291400  10376   7432 S   0.0  0.3   0:00.81 accounts-daemon                                                            
+  840 root      20   0  215728  20764  11948 S   0.0  0.5   0:00.03 snapd                                                                      
+  924 avahi     20   0   44788    348     12 S   0.0  0.0   0:00.00 avahi-daemon                                                               
+  925 root      20   0  274820   9380   8164 S   0.0  0.2   0:00.04 cups-browsed                                                               
+  971 root      20   0  294220   9892   7560 S   0.0  0.2   0:00.31 polkitd                                                                    
+ 1126 rtkit     21   1  183544   2964   2680 S   0.0  0.1   0:00.14 rtkit-daemon                                                               
+ 1135 root      10 -10       0      0      0 S   0.0  0.0   0:00.00 krfcommd                                                                   
+ 1149 root      20   0  347260   9932   8500 S   0.0  0.3   0:00.36 upowerd                                                                    
+ 1170 colord    20   0  313576  12624   9844 S   0.0  0.3   0:00.15 colord
+ 1301 bala      20   0   43960   4344   2828 S   0.0  0.1   0:03.37 dbus-daemon      
+ 1349 bala      20   0  360224  12460   6984 S   0.0  0.3   0:20.14 ibus-daemon   
+ 1410 bala      20   0  519344  27832  21568 S   0.0  0.7   0:05.13 bamfdaemon                                                                 
+ 1448 bala      20   0   43024   4008   3436 S   0.0  0.1   0:00.45 dbus-daemon   
+ 1620 root      20   0  382672  10480   8056 S   0.0  0.3   0:02.46 udisksd                                                                    
+ 1631 root      20   0  635292  36600  10992 S   0.0  0.9   0:01.20 fwupd  
+ 1768 bala      20   0  423528   9092   7748 S   0.0  0.2   0:00.25 zeitgeist-daemo                                                            
+ 4296 bala      20   0    4356     84      0 S   0.0  0.0   0:00.14 daemon                                                                     
+ 4302 root      20   0    4356     84      0 S   0.0  0.0   0:00.13 daemon                                                                     
+ 4323 bala      20   0    4356     84      0 S   0.0  0.0   0:00.17 daemon                                                                     
+ 4346 bala      20   0    4356     84      0 S   0.0  0.0   0:00.10 daemon                                                                     
+ 4361 bala      20   0    4356     84      0 S   0.0  0.0   0:00.15 daemon                                                                     
+ 4373 bala      20   0    4356     84      0 S   0.0  0.0   0:00.14 daemon                                                                     
+ 4395 bala      20   0    4356     84      0 S   0.0  0.0   0:00.13 daemon   
+ 4430 bala      20   0    4356     84      0 S   0.0  0.0   0:00.11 daemon_code                                                                
+ 4449 root      20   0    4356     80      0 S   0.0  0.0   0:00.11 daemon_code                                                                
+                                                                  
+                                                             
+                                                             
+                                                          
+                                                                
+
+
+   
